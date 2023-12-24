@@ -15,7 +15,7 @@ setup(
     author='sandino',
     author_email='vdjangofan@gmail.com',
     url='https://github.com/sandino/django-trumbowyg',
-    license='The MIT License (MIT)',
+    #license='The MIT License (MIT)',
     description='Trumbowyg (WYSIWYG editor) integration app for Django admin.',
     long_description=README,
     classifiers=[
